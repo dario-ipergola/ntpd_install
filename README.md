@@ -1,3 +1,7 @@
+Feramre sysntpd
+/etc/init.d/sysntpd stop
+/etc/init.d/sysntpd disable
+
 Installare i pachetti
 
 opkg update
