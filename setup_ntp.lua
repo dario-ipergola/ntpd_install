@@ -101,4 +101,3 @@ print("-> Modifiche salvate in UCI.")
 print("-> Riavvio del servizio ntpd...")
 os.execute("/etc/init.d/ntpd restart")
 print("=== Configurazione completata con successo! ===")
-EOF
